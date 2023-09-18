@@ -1,0 +1,4 @@
+untuk mencari kandidat class biasanya menggunakan kata benda dari user story
+untuk mencari kandidat method atau behavior biasanya menggunakan kata kerja dari user story
+Untuk mengetahui object harus mencari kata benda dari user story kemudian kata benda tersebut kita bisa mendesain use case, class diagram dan bisa menemukan kandidat classnya
+Penggunaan record memungkinkan untuk bisa menggantikan class bukutamu yang hanya berisi objek komentar

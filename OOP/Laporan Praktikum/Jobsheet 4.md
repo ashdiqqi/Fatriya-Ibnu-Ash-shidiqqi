@@ -4,7 +4,7 @@
 
 **JOBSHEET 4**
 
-<img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 4\IMG\Aspose.Words.59584862-5317-48f0-80e4-1225e8b9f2de.001.png">
+<img src=https://github.com/ashdiqqi/Fatriya-Ibnu-Ash-shidiqqi/blob/main/OOP/IMG/Aspose.Words.59584862-5317-48f0-80e4-1225e8b9f2de.001.png>
 
 OLEH :
 
@@ -164,7 +164,7 @@ public class MainPercobaan1 {
 
 Output
 
-<img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 4\IMG\Aspose.Words.59584862-5317-48f0-80e4-1225e8b9f2de.002.png">
+<img src=https://github.com/ashdiqqi/Fatriya-Ibnu-Ash-shidiqqi/blob/main/OOP/IMG/Aspose.Words.59584862-5317-48f0-80e4-1225e8b9f2de.002.png>
 Pertanyaan
 
 1. Di dalam class Processor dan class Laptop , terdapat method setter dan getter untuk
@@ -398,7 +398,7 @@ public class MainPercobaan2 {
 
 Output
 
-<img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 4\IMG\Aspose.Words.59584862-5317-48f0-80e4-1225e8b9f2de.003.png">
+<img src=https://github.com/ashdiqqi/Fatriya-Ibnu-Ash-shidiqqi/blob/main/OOP/IMG/Aspose.Words.59584862-5317-48f0-80e4-1225e8b9f2de.003.png>
 Pertanyaan
 
 1. Perhatikan class Pelanggan. Pada baris program manakah yang menunjukan bahwa class Pelanggan memiliki relasi dengan class Mobil dan class Sopir ?
@@ -608,7 +608,7 @@ public class MainPercobaan3 {
 
 Output
 
-<img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 4\IMG\Aspose.Words.59584862-5317-48f0-80e4-1225e8b9f2de.004.png">
+<img src=https://github.com/ashdiqqi/Fatriya-Ibnu-Ash-shidiqqi/blob/main/OOP/IMG/Aspose.Words.59584862-5317-48f0-80e4-1225e8b9f2de.004.png>
 
 Pertanyaan
 
@@ -626,7 +626,7 @@ KeretaApi keretaApi = new KeretaApi("Gaya Baru", "Bisnis", masinis);
 
 System.out.println(keretaApi.info());
 
-package pertemuan4.relasiClassPercobaan3;
+
 
 public class MainPertanyaan {
 
@@ -644,7 +644,7 @@ public class MainPertanyaan {
 
 3. Apa hasil output dari main program tersebut ? Mengapa hal tersebut dapat terjadi ?
 
-- <img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 4\IMG\Aspose.Words.59584862-5317-48f0-80e4-1225e8b9f2de.005.png">
+- <img src=>
 
 4. Perbaiki class KeretaApi sehingga program dapat berjalan !
 
@@ -838,7 +838,7 @@ public class MainPercobaan4 {
 
 Output
 
-<img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 4\IMG\Aspose.Words.59584862-5317-48f0-80e4-1225e8b9f2de.006.png">
+<img src=https://github.com/ashdiqqi/Fatriya-Ibnu-Ash-shidiqqi/blob/main/OOP/IMG/Aspose.Words.59584862-5317-48f0-80e4-1225e8b9f2de.005.png>
 
 Pertanyaan
 
@@ -889,3 +889,5 @@ public void setPenumpang(Penumpang penumpang, int nomor) {
 `        `}
 
 `    `}
+output
+<img src=https://github.com/ashdiqqi/Fatriya-Ibnu-Ash-shidiqqi/blob/main/OOP/IMG/Aspose.Words.59584862-5317-48f0-80e4-1225e8b9f2de.006.png>
